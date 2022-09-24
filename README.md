@@ -36,7 +36,7 @@ python producer.py
 ```
 
 ### Producer Sample Output
-```json
+```sh
 {'test_data': {'random_value': 7}, 'timestamp': '2022-09-24 17:49:15.064358', 'value_status': 'High'}
 {'test_data': {'random_value': 5}, 'timestamp': '2022-09-24 17:49:18.091630', 'value_status': 'Low'}
 {'test_data': {'random_value': 4}, 'timestamp': '2022-09-24 17:49:21.109652', 'value_status': 'Low'}
