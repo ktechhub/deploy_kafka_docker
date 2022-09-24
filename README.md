@@ -19,7 +19,7 @@ docker-compose down
 ```
 
 ## Python
-Creaye a virtualenv and install the requirements file
+Create a virtualenv and install the requirements file
 
 ```sh
 pip install -r requirements.txt
