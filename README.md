@@ -1,5 +1,8 @@
 # deploy_kafka_docker
-Deploy Kafka on Docker. Play with it using Python
+Deploy Kafka on Docker. Play with it using Python.
+
+## YouTube Video
+[https://www.youtube.com/watch?v=CEZ1VJW1duo](https://www.youtube.com/watch?v=CEZ1VJW1duo)
 
 
 ## Start the docker-compose with console log output
